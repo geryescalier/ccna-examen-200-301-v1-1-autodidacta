@@ -23,10 +23,13 @@ El repositorio está bajo la Licencia GNU v3.0, que permite compartir y modifica
 ¡Gracias y espero ver tus contribuciones!
 
 ## Aportes
-
-Este es un espacio abierto a la colaboración, puedes enviar tus aportes en https://github.com/geryescalier/ccna-examen-200-301-v1-1-autodidacta/issues 
-
 ### Atribución de Aportes en el Repositorio
 
 Todos los aportes realizados en el repositorio recibirán la debida atribución al autor, incluyendo un enlace al aporte original en la sección de aportes. Una vez que un autor haya realizado una cantidad mínima de aportes (a determinar), será elegible para ser agregado al repositorio como colaborador.
+
+### Espacio Abierto a la Colaboración
+
+Te invitamos a contribuir en este espacio. Puedes enviar tus aportes a través del siguiente enlace: [APORTES](https://github.com/geryescalier/ccna-examen-200-301-v1-1-autodidacta/blob/main/autodidacta/faq.md) 
+
+
 
