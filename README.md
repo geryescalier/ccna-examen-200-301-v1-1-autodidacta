@@ -1,4 +1,4 @@
-# CCNA EXAMEN 200-301 v1.1 Autodidacta
+# CCNA EXAMEN 200-301 v1.1 Estudio Autodidacta
 ![](https://github.com/geryescalier/ccna-examen-200-301-v1-1-autodidacta/blob/main/autodidacta/imagenes/ccna200301e.png)
 
 Repositorio para documentar y compartir Información que te permita prepararte para el Examen de Certificación CCNA 200-301 v1.1 de manera autodidacta.
