@@ -20,7 +20,7 @@ El repositorio está bajo la Licencia GNU v3.0, que permite compartir y modifica
 
 ¡Espero que te unas a esta iniciativa y que juntos podamos crear un recurso valioso para la comunidad! Si tienes preguntas o sugerencias, no dudes en contactarme.
 
-¡Gracias y espero ver tus contribuciones!
+¡Gracias y espero ver tus Aportes!
 
 ## Aportes
 ### Atribución de Aportes en el Repositorio
