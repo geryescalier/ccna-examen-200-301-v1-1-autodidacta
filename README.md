@@ -1,10 +1,32 @@
 # CCNA EXAMEN 200-301 v1.1 Estudio Autodidacta
 ![](https://github.com/geryescalier/ccna-examen-200-301-v1-1-autodidacta/blob/main/autodidacta/imagenes/ccna200301e.png)
 
-Repositorio para documentar y compartir Información que te permita prepararte para el Examen de Certificación CCNA 200-301 v1.1 de manera autodidacta.
+Este espacio está diseñado para documentar información y compartir recursos útiles para todos aquellos que se están preparando para el examen CCNA 200-301.
 
-Este repositorio está diseñado para ayudarte a prepararte para el examen de certificación CCNA 200-301 v1.1. Aquí encontrarás recursos, información y materiales útiles que te permitirán estudiar de manera efectiva. 
-
-Este es un espacio abierto a la colaboración, puedes enviar tus aportes desde https://github.com/geryescalier/ccna-examen-200-301-v1-1-autodidacta/issues
 ## INICIO
 [Preguntas Frecuentes (F.A.Q.)](https://github.com/geryescalier/ccna-examen-200-301-v1-1-autodidacta/blob/main/autodidacta/faq.md)
+
+## ¿Qué puedes encontrar en el repositorio?
+
+Preguntas Frecuentes: Comenzaré con una sección de preguntas frecuentes que espero que sea útil para la comunidad.
+
+Colaboración Abierta: Todos son bienvenidos a colaborar. No tiene restricciones para colaboradores, así que si tienes información o recursos que compartir, ¡no dudes en unirte!
+
+## ¿Por qué elegí GitHub?
+He optado por esta plataforma porque permite una colaboración más amplia y efectiva. Además, el repositorio es público, lo que significa que cualquier persona puede acceder y contribuir.
+
+## Licencia 
+El repositorio está bajo la Licencia GNU v3.0, que permite compartir y modificar el contenido, siempre que se mantenga la misma licencia. Esto asegura que todos podamos beneficiarnos y contribuir al conocimiento colectivo.
+
+¡Espero que te unas a esta iniciativa y que juntos podamos crear un recurso valioso para la comunidad! Si tienes preguntas o sugerencias, no dudes en contactarme.
+
+¡Gracias y espero ver tus contribuciones!
+
+## Aportes
+
+Este es un espacio abierto a la colaboración, puedes enviar tus aportes en https://github.com/geryescalier/ccna-examen-200-301-v1-1-autodidacta/issues 
+
+### Atribución de Aportes en el Repositorio
+
+Todos los aportes realizados en el repositorio recibirán la debida atribución al autor, incluyendo un enlace al aporte original en la sección de aportes. Una vez que un autor haya realizado una cantidad mínima de aportes (a determinar), será elegible para ser agregado al repositorio como colaborador.
+
