@@ -1,5 +1,10 @@
 # EVENTOS ONLINE
-## Jeremy's IT Lab MEGA LAB 
+
+INDICE
+-  [Jeremy's IT Lab MEGA LAB](#Jeremy's-IT-Lab-MEGA-LAB)
+   - [Jeremy's IT Lab MEGA LAB v0.0 Inicio Básico 01/10/2024](##Jeremy's-IT-Lab-MEGA-LAB-v0.0-Inicio-Básico-01/10/2024)
+
+# Jeremy's IT Lab MEGA LAB 
 ## Jeremy's IT Lab MEGA LAB v0.0 Inicio Básico 01/10/2024 
 ![Laboratorio de ejmplo](https://github.com/geryescalier/ccna-examen-200-301-v1-1-autodidacta/blob/main/autodidacta/imagenes/ccnamegalabportada.jpeg)
 
