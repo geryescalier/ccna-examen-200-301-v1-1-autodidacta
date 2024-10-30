@@ -2,6 +2,7 @@
 ## Jeremy's IT Lab MEGA LAB 
 ## Jeremy's IT Lab MEGA LAB v0.0 Inicio Básico 01/10/2024 
 ![Laboratorio de ejmplo](https://github.com/geryescalier/ccna-examen-200-301-v1-1-autodidacta/blob/main/autodidacta/imagenes/ccnamegalabportada.jpeg)
+
 Preparación para el Examen de Certificación CCNA (200-301)
 
 Si te estás preparando para el examen de certificación CCNA (200-301), la sección de laboratorio será de gran ayuda, especialmente en la parte práctica. En Jeremy's IT Lab, al finalizar los videos, encontrarás el Mega Lab.
