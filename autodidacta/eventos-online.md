@@ -14,7 +14,7 @@ Si te estás preparando para el examen de certificación CCNA (200-301), la secc
 
 [Hilo al server Discord de Nezus Academy](https://discord.com/channels/1138141628469616671/1300440226287587328)
   
-En este evento, realizaremos una práctica básica de configuración de equipos, abarcando todo lo que podamos en 60 minutos o menos. Lo que no logremos completar lo documentaremos en [Eventos Online](https://github.com/geryescalier/ccna-examen-200-301-v1-1-autodidacta/eventos-online.md) para resolverlo posteriormente, ya sea a través del servidor de Nezus o en un próximo evento.
+En este evento, realizaremos una práctica básica de configuración de equipos, abarcando todo lo que podamos en 60 minutos o menos. Lo que no logremos completar lo documentaremos en [Eventos Online](https://github.com/geryescalier/ccna-examen-200-301-v1-1-autodidacta/blob/main/autodidacta/eventos-online.md) para resolverlo posteriormente, ya sea a través del servidor de Nezus o en un próximo evento.
 
 Ayudaría mucho que tengas preparado:
 - Packet Tracer instalado y en funcionamiento
